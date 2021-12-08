@@ -1,0 +1,34 @@
+{
+	"login": {
+		"uid": "9bfeec5c904afb7e5e03b7b471fcc350",
+		"sid": "0472c8917ecf2e8ec5786768cd320cc5",
+		"created": "2021-11-04T10:41:31.227Z",
+		"updated": "2021-11-04T10:51:17.937Z",
+		"email": "test@zetami.com",
+		"name": "test2",
+		"surname": "test2",
+		"phone": "",
+		"session": {
+			"sid": "0472c8917ecf2e8ec5786768cd320cc5",
+			"created": "2021-11-12T23:17:10.682Z",
+			"updated": "2021-11-12T23:17:22.079Z",
+			"expire": "2021-11-13T00:17:22.079Z"
+		}
+	},
+	"session": {
+		"uid": "9bfeec5c904afb7e5e03b7b471fcc350",
+		"sid": "0e2914dd0d604b09a66bb48b81baee47",
+		"created": "2021-11-04T10:41:31.227Z",
+		"updated": "2021-11-04T10:51:17.937Z",
+		"email": "test@zetami.com",
+		"name": "test2",
+		"surname": "test2",
+		"phone": "",
+		"session": {
+			"sid": "0e2914dd0d604b09a66bb48b81baee47",
+			"created": "2021-11-12T23:41:13.335Z",
+			"updated": "2021-11-12T23:41:13.335Z",
+			"expire": "2021-11-13T00:41:13.335Z"
+		}
+	}
+}
